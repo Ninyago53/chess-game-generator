@@ -4,9 +4,9 @@ This repository contains Python code for generating multiple games of chess usin
 
 ## Usage
 
-To use this code, simply clone the repository and run the ``chess_game_generator.py`` script using a Python interpreter. You can customize the number of games and the time limit per move by editing the parameters in the **generate_games** function call. By default, the generated games are saved to a CSV file named ``chess_games.csv`` in the same directory as the script.
+To use this code, simply clone the repository and run the ``chess_engine.py`` script using a Python interpreter. You can customize the number of games and the time limit per move by editing the parameters in the **generate_games** function call. By default, the generated games are saved to a CSV file named ``chess_games.csv`` in the same directory as the script.
 
-If you prefer to run the code in a Jupyter Notebook environment, you can also use the provided ``chess_game_generator.ipynb`` notebook. This notebook includes sample code for loading the generated CSV file into a Pandas DataFrame and visualizing some basic statistics of the games.
+If you prefer to run the code in a Jupyter Notebook environment, you can also use the provided ``chess_engine.ipynb`` notebook. This notebook includes sample code for loading the generated CSV file into a Pandas DataFrame and visualizing some basic statistics of the games.
 
 
 ## Google Colab
